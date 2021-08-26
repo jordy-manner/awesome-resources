@@ -67,12 +67,16 @@ Personnal list of useful resources for peaceful work
 
 - [ISO Republic](https://isorepublic.com/)
 
-
 ## Free icons
 
 - [Icon Monstr](https://iconmonstr.com/)
 
 - [FlatIcon](https://www.flaticon.com/)
+
+
+## Favicon generator
+
+[Real Favicon Generator](https://realfavicongenerator.net/)
 
 
 ## Logos
