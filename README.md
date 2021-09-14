@@ -1,18 +1,19 @@
-# Resources
+# Awesome Resources
 
-Personnal list of useful resources for peaceful work
- 
+[![Awesome](https://img.shields.io/static/v1?&label=&message=awesome&color=494368&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAB/ElEQVQokZ1SzWsTcRB9M7/fJtk0yfpVKVShiUpVeqiHKPGgHor0oKA9pKAWoepZ/SvUUhULgidvfkCPouK9VCuIiKBFJUUtXtTYkLhJs7szHpKUmmPnNm94b4b3hlQVGykbhuFaY5iNiETdUgSAmU0kEq1huVwOAMAgU27WorTjwhJD15FCFVSDOrbEUkag0X+CAHCy78DpjHUzbZCoNYPnuN6JvuFTncMAEFs2DEDuHr54e3JoZNzXoGaNtY6xxjHWWmOtL0Ht0tDxszOFyZsAojYHuHXw/NRU/ty11iaibiM62HR+4sZ0fuI6ANCjY1ce7Nu0Y//lV/evbktkeplAoUiYdtw0oKgGjapltqIqvxvVXzOFC3fel7++o9L4vVK2Z2tWbVwJIFERdpI8u/jisSHDY4MjRQl8YWJWQClcpaW/5S8WKqoq8OsrqwSiQKLASzmpJ9/ePI0Za8Z2Hy1W/RXfYeMoVJI24apGal///Dyf7d2Tc6NmjAiUBMchIT5Vlj8aZgNSeJntKYWqKpSMg5dLc/MUJ+sWdx46s9frHwxVAlWl5z/ePlv4U5oDgMLmXUdG+4dHAVJL7HyoLC/Ofl94SAPZAao0fZV25ApFgmNIOy4BQDWoa0OaoFakYBC8WA9RGIZkiM16+xWqnfcyzKY7okgloo0++T9LhNUp8L3cXgAAAABJRU5ErkJggg==)](https://github.com/jordy-manner/awesome-resources)
+[![MIT Licensed](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)](LICENSE.md)
+
+Awesome list of useful resources for peaceful work.
+
 ## Cheat sheets
 
 - [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - [Favicon](https://github.com/audreyr/favicon-cheat-sheet)
 
-## Framework
+## CSS Framework
 
-### CSS 
-
-#### Bootstrap
+### Bootstrap
 
 - [Bootstrap](https://getbootstrap.com)
 
@@ -27,7 +28,7 @@ Personnal list of useful resources for peaceful work
 - [Theme Fisher](https://themefisher.com)
 
 
-#### Tailwind
+### Tailwind
 
 - [Tailwind](https://tailwindcss.com)
 
@@ -39,7 +40,7 @@ Personnal list of useful resources for peaceful work
 
 - [Tailwind Awesome](https://www.tailwindawesome.com)
 
-#### Alternatives
+### Alternatives
 
 - [Bulma](https://bulma.io)
 
@@ -165,7 +166,7 @@ Personnal list of useful resources for peaceful work
 - [Litmus (email tester)](https://litmus.com/)
 
 - [Cerberus (email templates)](https://tedgoas.github.io/Cerberus/)
-- 
+
 
 ## Interactive maps
 
