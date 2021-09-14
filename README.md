@@ -12,7 +12,38 @@ Personnal list of useful resources for peaceful work
 
 ### CSS 
 
+#### Bootstrap
+
 - [Bootstrap](https://getbootstrap.com)
+
+- [Themes Bootstrap ](https://themes.getbootstrap.com)
+
+- [Bootswatch](https://bootswatch.com)
+
+- [Bootstrap Made](https://bootstrapmade.com/bootstrap-5-templates/)
+
+- [Start Bootstrap](https://startbootstrap.com)
+
+- [Theme Fisher](https://themefisher.com)
+
+
+#### Tailwind
+
+- [Tailwind](https://tailwindcss.com)
+
+- [TailwindUi](https://tailwindui.com)
+
+- [Tailwind Toolbox](https://www.tailwindtoolbox.com)
+
+- [Tailwind Components](https://tailwindcomponents.com)
+
+- [Tailwind Awesome](https://www.tailwindawesome.com)
+
+#### Alternatives
+
+- [Bulma](https://bulma.io)
+
+- [Foundation](https://get.foundation)
 
 ## Holder text generator
 
@@ -66,6 +97,38 @@ Personnal list of useful resources for peaceful work
 - [Gratisography](https://gratisography.com/)
 
 - [ISO Republic](https://isorepublic.com/)
+
+## SVG Illustrations
+
+- [humaaans.com](https://www.humaaans.com)
+
+- [opendoodles.com](https://www.opendoodles.com)
+
+- [openpeeps.com](https://openpeeps.com)
+
+- [illlustrations.co](https://illlustrations.co)
+
+- [absurd.design](https://absurd.design)
+
+- [lukaszadam.com](https://lukaszadam.com/illustrations)
+
+- [fresh-folk.com](https://fresh-folk.com)
+
+- [drawkit.io](https://www.drawkit.io/)
+
+- [undraw.co](https://undraw.co/illustrations)
+
+- [icons8.com](https://icons8.com/illustrations)
+
+- [iradesign.io](https://iradesign.io/illustrations)
+
+- [blush.design](https://blush.design)
+
+- [storyset.com](https://storyset.com)
+
+- [iconscout.com](https://iconscout.com)
+
+- [isometric.online](https://isometric.online)
 
 ## Free icons
 
