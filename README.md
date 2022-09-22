@@ -187,3 +187,9 @@ Awesome list of useful resources for peaceful work.
 - [Colorhunt](https://colorhunt.co)
 
 - [Gradienta](https://gradienta.io)
+
+## Vanilla JS Librairies
+
+- [Awesome Vanilla JS](https://github.com/davidhund/awesome-vanilla-js)
+
+- [Vanilla JS Repository](https://vanillalist.top/)
